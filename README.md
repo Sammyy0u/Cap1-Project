@@ -81,11 +81,69 @@ This system will:
 
 ---
 
-## ✅ Expected Outcomes
+## ✅ Outcome of the Project
 
-- Practical experience in system analysis and design  
-- Better understanding of UML and database modeling  
-- Improved teamwork and project management skills  
-- Development of a structured online shopping system  
+- We learned how to analyze a business problem and design an online 
+shopping system 
+- Developed skills in creating Use Case Diagrams to identify actors and their 
+interactions with the system  
+- Practiced BPM (Business Process Modeling) to represent workflows like 
+product purchasing
+-  Learned to define database tables with fields and data types, considering 
+foreign key relationships
+- Gained experience in database design, including ERD creation and defining 
+relationships between entities (User, Product, order, etc.)  
+
+---
+
+## Conclusion 
+
+- The project demonstrates the importance of having a centralized online 
+platform for Korean skincare products
+- By completing this project, we were able to design a functional and secure 
+system that supports user registration, product browsing, cart 
+management, and online payment
+- The system ensures that customers, employees, and managers can 
+interact efficiently with the platform
+- Creating Use Case Diagrams, BPM flows, ERDs and database tables 
+Helped solidify theoretical knowledge in system analysis and design
+
+---
+
+## References
+
+- Tutorials on YouTube : https://youtu.be/iRRwPAdl9OQ?si=q7DBEh7vP8pHpj9r 
+- Websites : ChatGpt 
+- Documentation : our Professor Kim Sung Soo’s teaching materials (helped to 
+- Practice and understand everything)
+
+---
+
+## Appendix
+
+Important Code snippets: 
+
+
+# 📊 Use Case Diagram
+
+![Use Case Diagram](images/usecase.png)
+
+📝 This diagram represents how users interact with the system.
+
+---
+
+# 🔄 BPM Diagram
+
+![BPM Diagram](images/bpm.png)
+
+📝 This diagram shows the workflow of the system.
+
+---
+
+# 🗄 ERD Diagram
+
+![ERD Diagram](images/erd.png)
+
+📝 This diagram illustrates the database structure and relationships.
 
 ---

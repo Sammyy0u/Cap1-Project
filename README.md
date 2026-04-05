@@ -115,7 +115,7 @@ Helped solidify theoretical knowledge in system analysis and design
 - Tutorials on YouTube : https://youtu.be/iRRwPAdl9OQ?si=q7DBEh7vP8pHpj9r 
 - Websites : ChatGpt 
 - Documentation : our Professor Kim Sung Soo’s teaching materials (helped to 
-- Practice and understand everything)
+  practice and understand everything)
 
 ---
 
@@ -123,10 +123,21 @@ Helped solidify theoretical knowledge in system analysis and design
 
 Important Code snippets: 
 
+![1](images/codephoto1.png)
+
+![2](images/codephoto2.png)
+
+![3](images/codephoto3.png)
+
+![4](images/codephoto4.png)
+
+---
+
+## Additional Charts and Tables:
 
 # 📊 Use Case Diagram
 
-![Use Case Diagram](images/usecase.png)
+![Use Case Diagram](images/photo1.png)
 
 📝 This diagram represents how users interact with the system.
 
@@ -134,7 +145,7 @@ Important Code snippets:
 
 # 🔄 BPM Diagram
 
-![BPM Diagram](images/bpm.png)
+![BPM Diagram](images/photo2.png)
 
 📝 This diagram shows the workflow of the system.
 
@@ -142,7 +153,7 @@ Important Code snippets:
 
 # 🗄 ERD Diagram
 
-![ERD Diagram](images/erd.png)
+![ERD Diagram](images/photo3.png)
 
 📝 This diagram illustrates the database structure and relationships.
 
